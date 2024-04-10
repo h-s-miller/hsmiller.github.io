@@ -4,26 +4,9 @@ title: About
 permalink: /about/
 ---
 
-[Reverie](https://github.com/amitmerchant1990/reverie) is a Jekyll theme which is simple and opinionated. It's actually a fork of [jekyll-now](https://github.com/barryclark/jekyll-now) with some additional features and personal touches which I've implemented to suit my needs for [my blog](https://www.amitmerchant.com).
+I am a PhD candidate in the Biological and Medical Informatics program at UCSF doing research in the [DeRisi Lab](https://derisilab.ucsf.edu/). Prior to joining UCSF, I studied Math and Scientific Computation at UCD. In lab, I bridge computational and wet lab science to study autoimmunity and antibodies.
 
-This is a plug-and-play Jekyll theme which you can use on GitHub Pages without even setting up a local environment.
+My research goals are to create a circular ecosystem between the computation and the bench: build tools that make experiments easier --> run experiments --> build analysis tools to generate hypotheses from my experiments --> plan more experiments to test these hypotheses!
 
-## Features
+Currently, I study autoantibody repertoires in Vasculitis and Traumatic Brain Injury using Phage-immunoprecipitation Sequencing (PhIP-seq).
 
-- Command-line free fork-first workflow, using GitHub.com to create, customize and post to your blog
-- Fully responsive and mobile optimized base theme
-- Sass/Coffeescript support using Jekyll 2.0
-- Free hosting on your GitHub Pages user site
-- All the SEO goodies comes in-built
-- Markdown blogging
-- Syntax highlighting using Pygments
-    - [Dracula syntax theme](https://draculatheme.com/) included
-- Disqus commenting
-- Google Analytics integration
-- Fuzzy search across blog posts
-- Pagination of posts works out-of-the-box.
-- Categorize posts out-of-the box
-- RSS Feed
-- In-built sitemap
-
-Learn more about it [here](https://github.com/amitmerchant1990/reverie) on how to get started.
