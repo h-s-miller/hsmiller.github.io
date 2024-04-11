@@ -16,4 +16,4 @@ permalink: /papers/
 ---
 1. [Extrathymic Aire-expressing cells (eTACs) support maternal-fetal tolerance](https://www.science.org/doi/10.1126/sciimmunol.abf1968)
 - This research found that maternal-fetal tolerance is supported by eTACs, as ablation of Aire-expressing cells in teh periphery resulted in intrauterine fetal growth restriction. I analyzed scRNA-seq data from aire-ablated pregnant mice and found a shift in the T cell populations away from T-regulatory cells and towards T-follicular helper cells, implying a loss in tolerance without eTACs.
-- 
+
