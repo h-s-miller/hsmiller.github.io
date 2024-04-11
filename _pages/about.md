@@ -3,6 +3,9 @@ layout: page
 title: About
 permalink: /about/
 ---
+<p align="center">
+  <img src="/images/headshot." />
+</p>
 
 I am a PhD candidate in the Biological and Medical Informatics program at UCSF doing research in the [DeRisi Lab](https://derisilab.ucsf.edu/). Prior to joining UCSF, I studied Math and Scientific Computation at UCD. In lab, I bridge computational and wet lab science to study autoimmunity and antibodies.
 
