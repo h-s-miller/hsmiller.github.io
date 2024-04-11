@@ -1,4 +1,8 @@
-# Publications 
+---
+layout: page
+title: Publications
+permalink: /papers/
+---
 
 ## Derisi Lab 
 ---
